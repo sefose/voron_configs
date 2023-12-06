@@ -7,7 +7,7 @@ This repo is for saving an versioning condigs for voron printers
 ### Klipperscreen
 
 #### Hardware
-
+4.3" Waveshare display: https://www.amazon.de/dp/B083Q8YLVP?ref=ppx_yo2ov_dt_b_product_details&th=1
 
 #### Documentation
 https://klipperscreen.readthedocs.io/en/latest/
