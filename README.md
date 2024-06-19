@@ -1,6 +1,6 @@
 # Voron config repo
 
-This repo is for saving an versioning condigs for voron printers
+This repo is for saving an versioning configs for voron printers
 
 ## Sources
 
